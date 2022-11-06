@@ -14,8 +14,8 @@
         "url": "git@github.com:chrisnguyen12/buy-your-rubber-duckies.git"
     },
     "keywords": [],
-    "author": "Joseph DeWoody",
-    "license": "ISC",
+    "author": "",
+    "license": "MIT",
     "devDependencies": {
         "nodemon": "^2.0.3"
     },
